@@ -33,28 +33,28 @@
 ### 1️⃣ Mood Detection via Webcam
 > Captures a frame and detects the user's facial emotion.
 
-![Mood Detection](screenshots/mood_detection.png)
+![Mood Detection](Screenshots/mood_detection.png)
 
 ---
 
 ### 2️⃣ Meal Recommendation
 > Based on the detected emotion, a suitable meal is recommended.
 
-![Meal Recommendation](screenshots/meal_recommendation.png)
+![Meal Recommendation](Screenshots/meal_recommendation.png)
 
 ---
 
 ### 3️⃣ Dish Image Preview
 > Shows a relevant dish image from the `meal_images/` folder.
 
-![Meal Image](screenshots/meal_image.png)
+![Meal Image](Screenshots/meal_image.png)
 
 ---
 
 ### 4️⃣ Mood History Logging
 > Every emotion and meal is logged in a CSV file for later reference.
 
-![Mood History](screenshots/mood_logging.png)
+![Mood History](Screenshots/mood_logging.png)
 
 ---
 
